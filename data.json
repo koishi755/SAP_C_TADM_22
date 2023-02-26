@@ -47,15 +47,14 @@
   }
 ,
   "5":{
-    "quiz":"複数のインスタンスを持つASABAPに基づくSAPシステムでのロックテーブルの使用に関して正しい説明は次のうちどれですか。この質問には2つの正解があります。",
+    "quiz":"Which processes can run optionally as part of the Central Services instance of an AS ABAP-based SAP system? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"A.ロックテーブルはメッセージサーバーの共有メモリにあり、メッセージサーバーを介してすべてのワークプロセスからアクセスできます。", "answer":"incorrect"},
-        {"label":"B", "text":"B.ロックテーブルは、エンキューワークプロセスが実行されているコンピューターの共有メモリにあります。", "answer":"correct"},
-        {"label":"C", "text":"C.ロックテーブルはSAPシステムにある透過テーブルであり、ABAPディクショナリを使用して内容を表示することができます。", "answer":"incorrect"},
-        {"label":"D", "text":"D.別のインスタンスからのダイアログワークプロセスの場合（エンキューワークプロセスなし）", "answer":"correct"},
-        {"label":"E", "text":"E.ロックを要求すると、ロック操作は中央インスタンスのエンキューワークプロセスによって実行されます。", "answer":"incorrect"}
+        {"label":"A", "text":"RFC Gateway", "answer":"correct"},
+        {"label":"B", "text":"SAP Web Dispatcher", "answer":"correct"},
+        {"label":"C", "text":"Message Server", "answer":"incorrect"},
+        {"label":"D", "text":"Enqueue server", "answer":"incorrect"}
     ],
-    "description":"<img src=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/41/7af4cea79e11d1950f0000e82de14a/h-00100060000_image002.gif>"
+    "description":"以下の図の右下のようにCentral ServicesはRFC Gatewayを含むことができます。<img src=https://help.sap.com/doc/saphelp_nw74/7.4.16/en-us/48/ace6623b1e35bae10000000a42189d/loio0bfcd23b077a40f9b3f8a16d902152de_LowRes.png><br>またCentral Services自体がMessage serverとEnqueue Serverから成り立っているのでこの２つはオプションではない<img src=https://www.stechies.com/userfiles/images/Centralservicejpg1494581615.jpg>"
   }
 ,
   "6":{
