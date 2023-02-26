@@ -105,7 +105,7 @@
         {"label":"D", "text":"Compile server", "answer":"correct"}
     ],
     "description":
-    "以下のようにSAP HANA cockpitではdeamonを除くサービスを停止できます。<img src=https://blogs.sap.com/wp-content/uploads/2017/09/start-annotated.png><br><a href=https://blogs.sap.com/2017/09/12/start-and-stop-sap-hana-on-gcp-by-the-sap-hana-academy target=_blank>Start and Stop SAP HANA</a>"
+    "以下のようにSAP HANA cockpitではdeamonを除くサービスを停止できます。<img src=https://blogs.sap.com/wp-content/uploads/2017/09/cockpit-annotated.png><br><a href=https://blogs.sap.com/2017/09/12/start-and-stop-sap-hana-on-gcp-by-the-sap-hana-academy target=_blank>Start and Stop SAP HANA</a>"
   }
   ,
   "10":{
