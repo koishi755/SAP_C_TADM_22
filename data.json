@@ -1,24 +1,26 @@
 {
   "1":{
-    "quiz":"AS ABAP + Javaシステムをインストールしましたが、デフォルトのUME設定は変更されていません。 次の説明のうち、正しいものはどれですか（AS ABAPシステムの1つのクライアントの場合）。この質問には2つの正解があります。",
+    "quiz":"What actions can you perform using the SAP_FIORI_FOUNDATION_S4 task list? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"A.ABAPロールはUMEグループとして表示されます。", "answer":"correct"},
-        {"label":"B", "text":"B. ABAPロールへのABAPユーザの割当は、UMEグループへのUMEユーザの割当として表示されます。", "answer":"correct"},
-        {"label":"C", "text":"C. ABAPユーザーのABAPグループへの割り当ては、UMEユーザーのUMEロールへの割り当てとして表示されます。", "answer":"incorrect"},
-        {"label":"D", "text":"D.ABAP許可プロファイルはUMEセキュリティロールとして表示されます。", "answer":"incorrect"}
+        {"label":"A", "text":"Replicate backend catalogs", "answer":"correct"},
+        {"label":"B", "text":"Schedule a job the calculation of the SAPUI5 application index", "answer":"incorrect"},
+        {"label":"C", "text":"Enable SAP GUI for HTML", "answer":"correct"},
+        {"label":"D", "text":"Create user with generated bussines roles", "answer":"incorrect"}
     ],
     "description":"ユーザマネジメントエンジン (UME) <br>すべての Java アプリケーションに集中ユーザマネジメントを提供し、複数のデータソースからユーザマネジメントデータに対して作業するよう設定することができます<br>UME は、デフォルトユーザストアとして SAP NetWeaver Application Server (AS) Java にシームレスに統合され、AS Java の管理ツールを使用して管理することができます。"
   }
 ,
   "2":{
-    "quiz":"AS ABAPに基づくSAPシステムのインスタンスの起動中にデータベースに接続するプロセスは次のうちどれですか？",
+    "quiz":"When using the Java Startup and Control Framework to shut down an AS Java-based SAP system, which of the following stops the server process(es)?",
     "option":[
-        {"label":"A", "text":"A.有効なSAPライセンスを確認するためのメッセージサーバー", "answer":"incorrect"},
-        {"label":"B", "text":"B.リモート関数呼び出し（RFC）を介したゲートウェイプロセス", "answer":"incorrect"},
-        {"label":"C", "text":"C.JDBCを介したディスパッチャプロセス", "answer":"incorrect"},
-        {"label":"D", "text":"D.すべてのワークプロセスがデータベースに接続します", "answer":"correct"}
+        {"label":"A", "text":"Instance controller", "answer":"correct"},
+        {"label":"B", "text":"Database", "answer":"incorrect"},
+        {"label":"C", "text":"sapstartsrv", "answer":"incorrect"},
+        {"label":"D", "text":"ICM", "answer":"incorrect"}
     ],
-    "description":"<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/fc/eb2e7d358411d1829f0000e829fbfe/content.htm?no_cache=true target=_blank>SAP ワークプロセス</a>"
+    "description":
+    
+    "<a href=https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-us/46/95279a554915eee10000000a114a6b/content.htm?no_cache=true target=_blank>Startup, Operation and Shutdown of an AS Java Instance</a>"
   }
 ,
   "3":{
