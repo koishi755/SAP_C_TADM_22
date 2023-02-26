@@ -133,15 +133,15 @@
   }
   ,
   "12":{
-    "quiz":"",
+    "quiz":"In an AS ABAP-based SAP system, a user performs the second dialog step in a dialog transaction. The dialog work process used in the first dialog step is occupied by a different user. What happens with this second user request?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"The request is processed another free dialog work process", "answer":"correct"},
+        {"label":"B", "text":"The dialog work process that handled the first step performs a rollout to handle the request", "answer":"incorrect"},
+        {"label":"C", "text":"The request is processed asynchronously by an update work process", "answer":"incorrect"},
+        {"label":"D", "text":"The request remains in the request queue untill the dialog work process that the handled the first dialog step is free again", "answer":"incorrect"}
     ],
     "description":
-    "<a href=ぱす target=_blank>りんく</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/fc/eb2d40358411d1829f0000e829fbfe/frameset.htm target=_blank>ダイアログステップのディスパッチ</a> "
   }
   ,
   "13":{
