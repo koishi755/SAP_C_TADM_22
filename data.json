@@ -71,15 +71,15 @@
   }
 ,
   "7":{
-    "quiz":"",
+    "quiz":"In an AS ABAP-based SAP system, you need to create a user that is not enabled for dialog interaction and is subject to the validity period of passwords. Which user type do you choose?",
     "option":[
-        {"label":"A", "text":"", "answer":"correct"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Reference", "answer":"correct"},
+        {"label":"B", "text":"Communications Data", "answer":"correct"},
+        {"label":"C", "text":"System", "answer":"incorrect"},
+        {"label":"D", "text":"Service", "answer":"incorrect"}
     ],
     "description":
-    ""
+    "Reference-->参照ユーザーは、サービス利用者と同様に、特定の人に割り当てられていない一般的なユーザーです。 参照ユーザーを使用してログオンすることはできません。 参照ユーザーは、追加の権限を割り当てるためにのみ使用されます。 参照ユーザーは、インターネット ユーザーに同一の権限を付与するために実装されます。<br>Communications Data-->システム間のダイアログのない通信 (-> RFC または CPIC) には、通信タイプのユーザを使用します。ダイアログ ログオン (SAP GUI を使用) はできません。パスワードの有効期間の一般設定は、このタイプのユーザーに適用されます。 このタイプのユーザーは、パスワードを変更できます (ダイアログ ユーザーと同様)。 パスワードを変更するためのダイアログは、発信者 (RFC/CPIC クライアント) によって提供される必要があります。 RFC 関数モジュール USR_USER_CHANGE_PASSWORD_RFC または RFC API 関数 RfcOpenEx() を使用して、パスワードを変更することができます。<br>System-->内部システム プロセス (-> バックグラウンド処理) またはシステム関連プロセス (-> ALE、ワークフロー、TMS、CUA) には、システム ユーザー タイプを使用します。ダイアログ ログオン (SAP GUI を使用) はできません。このタイプのユーザーは、パスワード有効性の一般設定から除外されます。 ユーザー管理者のみが、トランザクション SU01 (ジャンプ -> パスワード変更) を使用してパスワードを変更することができます。<br>Service-->サービス タイプのユーザーは、匿名の大規模なユーザー グループが使用できるダイアログ ユーザーです。 通常、このタイプのユーザーには、非常に制限された権限のみを割り当てる必要があります。たとえば、サービス ユーザーは、ITS サービスまたはパブリック Web サービスを使用した匿名システム アクセスに使用されます。 個人が認証されると、サービス ユーザーを使用して匿名で開始されたセッションは、ダイアログ ユーザーを使用して個人セッションとして継続できます (SUSR_INTERNET_USERSWITCH を参照)。ログオン時に、システムは期限切れのパスワードと初期パスワードをチェックしません。 パスワードを変更できるのは、ユーザー管理者だけです。また複数のログオンが許可されています。"
   }
   ,
   "8":{
