@@ -145,6 +145,31 @@
   }
   ,
   "13":{
+    "quiz":"When releasing a workbench request from the development system, what are the prerequisites for export to take place? Note: There are 3 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"All repository objects within the workbench request must be assigned to a package", "answer":"correct"},
+        {"label":"B", "text":"A consolidation route from the development system to a subsequent system must exist.", "answer":"correct"},
+        {"label":"C", "text":"A delivery route from the development system to a subsequent system must exist.", "answer":"incorrect"},
+        {"label":"D", "text":"All packages used by objects in the workbench request must be assigned to a valid transport layer.", "answer":"correct"},
+        {"label":"D", "text":"All repository objects within the workbench request must be assigned to the same transport layer.", "answer":"incorrect"}
+    ],
+    "description":
+    "<iframe width=560 height=315 src=https://www.youtube.com/embed/CPgaFPZ1bUY title=YouTube video player frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share allowfullscreen></iframe><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/57/38e1824eb711d182bf0000e829fbfe/frameset.htm target=_blank>変更依頼</a> "
+  }
+  ,
+  "14":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=ぱす target=_blank>りんく</a> "
+  }
+  ,
+  "15":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
