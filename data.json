@@ -109,14 +109,50 @@
   }
   ,
   "10":{
+    "quiz":"In the role maintenance transaction (PFCG) of an AS ABAP-based SAP system, which steps grant the authorizations of a role to a user master record?",
+    "option":[
+        {"label":"A", "text":"Save the profile", "answer":"incorrect"},
+        {"label":"B", "text":"Generate the profile", "answer":"incorrect"},
+        {"label":"C", "text":"Perform a user comparison", "answer":"correct"},
+        {"label":"D", "text":"Assign a user to the role", "answer":"incorrect"}
+    ],
+    "description":
+    "PFCGでロールの作成や編集を行うがその権限を与えるタイミングはPFUDでユーザマスタレコードの比較を実行した時らしい。<a href=https://bags-lab.com/2021/10/24/pfcg-create-role target=_blank>PFCGから権限ロールを作成・変更する方法</a> "
+  }
+  ,
+  "11":{
     "quiz":"",
     "option":[
-        {"label":"A", "text":"", "answer":"correct"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
         {"label":"D", "text":"", "answer":"incorrect"}
     ],
     "description":
-    ""
+    "<a href=ぱす target=_blank>りんく</a> "
+  }
+  ,
+  "12":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=ぱす target=_blank>りんく</a> "
+  }
+  ,
+  "13":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=ぱす target=_blank>りんく</a> "
   }
 }
