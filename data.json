@@ -19,7 +19,7 @@
     ],
     "description":
     
-    "<a href=https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-us/46/95279a554915eee10000000a114a6b/content.htm?no_cache=true target=_blank, Operation and Shutdown of an AS Java Instance</a>"
+    "<a href=https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-us/46/95279a554915eee10000000a114a6b/content.htm?no_cache=true target=_blank> Operation and Shutdown of an AS Java Instance</a>"
   }
 ,
   "3":{
@@ -31,7 +31,7 @@
         {"label":"D", "text":"Central services", "answer":"incorrect"}
     ],
     "description":
-    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/6d/e3a03cc24efd1de10000000a114084/frameset.htm target=_blank, レプリケーションサーバ</a><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/37/14b4ed4f1ec14daa15729910a7a31f/frameset.htm target=_blank, SAP セントラルサービス</a><br><a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/84/54953fc405330ee10000000a114084/frameset.htm target=_blank, SAP NetWeaver アプリケーションサーバのアーキテクチャ</a><br><a href=https://help.sap.com/docs/SLTOOLSET/4b99f675d74f4990b75a8630869a0cd2/5174914deabc4765a3ba08c1ce8330c7.html target=_blank, Additional Application Server Instance</a><br>"
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/6d/e3a03cc24efd1de10000000a114084/frameset.htm target=_blank> レプリケーションサーバ</a><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/37/14b4ed4f1ec14daa15729910a7a31f/frameset.htm target=_blank> SAP セントラルサービス</a><br><a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/84/54953fc405330ee10000000a114084/frameset.htm target=_blank> SAP NetWeaver アプリケーションサーバのアーキテクチャ</a><br><a href=https://help.sap.com/docs/SLTOOLSET/4b99f675d74f4990b75a8630869a0cd2/5174914deabc4765a3ba08c1ce8330c7.html target=_blank> Additional Application Server Instance</a><br>"
   }
 ,
   "4":{
@@ -43,7 +43,7 @@
         {"label":"D", "text":"A collection of SAP systems that are controlled by same transport domain controller", "answer":"correct"}
     ],
     "description":
-    "a href=https://github.com/koishi755/SAP/wiki/014.-Transport-Management-System-overview#4-transport-domain-and-transport-group target=_blank, Transport Group"
+    "<a href=https://github.com/koishi755/SAP/wiki/014.-Transport-Management-System-overview#4-transport-domain-and-transport-group target=_blank> Transport Group</a>"
   }
 ,
   "5":{
