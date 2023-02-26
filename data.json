@@ -35,13 +35,15 @@
   }
 ,
   "4":{
-    "quiz":"OracleデータベースのComputingCenter Management System（CCMS）アラート監視ツールによって提供される情報はどれですか。この質問には2つの正解があります。",
+    "quiz":"What is the definition of “Transport Group” in the Transport Management System (TMS)?",
     "option":[
-        {"label":"A", "text":"A.データベース統計", "answer":"incorrect"},
-        {"label":"B", "text":"B.データベースの状態", "answer":"correct"},
-        {"label":"C", "text":"C.データベースのパフォーマンス", "answer":"correct"},
-        {"label":"D", "text":"D.データベースセッション", "answer":"incorrect"}
-    ]
+        {"label":"A", "text":"A collection of SAP systems that are assigned to the same transport target group", "answer":"incorrect"},
+        {"label":"B", "text":"A collection of SAP systems that are connected by transport routes", "answer":"incorrect"},
+        {"label":"C", "text":"A collection of SAP systems that share the same transport directory", "answer":"correct"},
+        {"label":"D", "text":"A collection of SAP systems that are controlled by same transport domain controller", "answer":"correct"}
+    ],
+    "description":
+    "a href=https://github.com/koishi755/SAP/wiki/014.-Transport-Management-System-overview#4-transport-domain-and-transport-group target=_blank, Transport Group"
   }
 ,
   "5":{
