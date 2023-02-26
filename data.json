@@ -74,7 +74,7 @@
   "7":{
     "quiz":"In an AS ABAP-based SAP system, you need to create a user that is not enabled for dialog interaction and is subject to the validity period of passwords. Which user type do you choose?",
     "option":[
-        {"label":"A", "text":"Reference", "answer":"correct"},
+        {"label":"A", "text":"Reference", "answer":"incorrect"},
         {"label":"B", "text":"Communications Data", "answer":"correct"},
         {"label":"C", "text":"System", "answer":"incorrect"},
         {"label":"D", "text":"Service", "answer":"incorrect"}
