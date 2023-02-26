@@ -121,15 +121,15 @@
   }
   ,
   "11":{
-    "quiz":"",
+    "quiz":"You have configured an SAP Web Dispatcher and set:wdisp/ssl_encrypt=2 icm/server_port_<xx>=...PROT=HTTP Which communication channels does this establish?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"HTTP between the client and SAP Web dispatcher | HTTP between SAP Web dispatcher and SAP system", "answer":"correct"},
+        {"label":"B", "text":"HTTP between the client and SAP Web dispatcher | HTTPS between SAP Web dispatcher and SAP system", "answer":"incorrect"},
+        {"label":"C", "text":"HTTPS between the client and SAP Web dispatcher | HTTPS between SAP Web dispatcher and SAP system", "answer":"incorrect"},
+        {"label":"D", "text":"HTTPS between the client and SAP Web dispatcher | HTTP between SAP Web dispatcher and SAP system", "answer":"incorrect"}
     ],
     "description":
-    "<a href=ぱす target=_blank>りんく</a> "
+    "以下のような資料あり。答えあってる？<br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/d8/a922d7f45f11d5996e00508b5d5211/frameset.htm target=_blank>SAP Web ディスパッチャと SSL</a> "
   }
   ,
   "12":{
