@@ -6,8 +6,7 @@
         {"label":"B", "text":"Schedule a job the calculation of the SAPUI5 application index", "answer":"incorrect"},
         {"label":"C", "text":"Enable SAP GUI for HTML", "answer":"correct"},
         {"label":"D", "text":"Create user with generated bussines roles", "answer":"incorrect"}
-    ],
-    "description":"ユーザマネジメントエンジン (UME) <br>すべての Java アプリケーションに集中ユーザマネジメントを提供し、複数のデータソースからユーザマネジメントデータに対して作業するよう設定することができます<br>UME は、デフォルトユーザストアとして SAP NetWeaver Application Server (AS) Java にシームレスに統合され、AS Java の管理ツールを使用して管理することができます。"
+    ]
   }
 ,
   "2":{
@@ -20,7 +19,7 @@
     ],
     "description":
     
-    "<a href=https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-us/46/95279a554915eee10000000a114a6b/content.htm?no_cache=true target=_blank>Startup, Operation and Shutdown of an AS Java Instance</a>"
+    "<a href=https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-us/46/95279a554915eee10000000a114a6b/content.htm?no_cache=true target=_blank, Operation and Shutdown of an AS Java Instance</a>"
   }
 ,
   "3":{
@@ -32,7 +31,7 @@
         {"label":"D", "text":"Central services", "answer":"incorrect"}
     ],
     "description":
-    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/6d/e3a03cc24efd1de10000000a114084/frameset.htm target=_blank>Startup, レプリケーションサーバ</a><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/37/14b4ed4f1ec14daa15729910a7a31f/frameset.htm target=_blank>Startup, SAP セントラルサービス</a><br><a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/84/54953fc405330ee10000000a114084/frameset.htm target=_blank>Startup, SAP NetWeaver アプリケーションサーバのアーキテクチャ</a><br><a href=https://help.sap.com/docs/SLTOOLSET/4b99f675d74f4990b75a8630869a0cd2/5174914deabc4765a3ba08c1ce8330c7.html target=_blank>Startup, Additional Application Server Instance</a><br>"
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/6d/e3a03cc24efd1de10000000a114084/frameset.htm target=_blank, レプリケーションサーバ</a><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/37/14b4ed4f1ec14daa15729910a7a31f/frameset.htm target=_blank, SAP セントラルサービス</a><br><a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/84/54953fc405330ee10000000a114084/frameset.htm target=_blank, SAP NetWeaver アプリケーションサーバのアーキテクチャ</a><br><a href=https://help.sap.com/docs/SLTOOLSET/4b99f675d74f4990b75a8630869a0cd2/5174914deabc4765a3ba08c1ce8330c7.html target=_blank, Additional Application Server Instance</a><br>"
   }
 ,
   "4":{
