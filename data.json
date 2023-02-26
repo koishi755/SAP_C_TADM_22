@@ -5,7 +5,8 @@
         {"label":"A", "text":"Replicate backend catalogs", "answer":"correct"},
         {"label":"B", "text":"Schedule a job the calculation of the SAPUI5 application index", "answer":"incorrect"},
         {"label":"C", "text":"Enable SAP GUI for HTML", "answer":"correct"},
-        {"label":"D", "text":"Create user with generated bussines roles", "answer":"incorrect"}
+        {"label":"D", "text":"Create user with generated bussines roles", "answer":"incorrect"},
+        {"label":"E", "text":"Generate SAP Fiori foundation roles", "answer":"correct"}
     ]
   }
 ,
@@ -40,7 +41,7 @@
         {"label":"A", "text":"A collection of SAP systems that are assigned to the same transport target group", "answer":"incorrect"},
         {"label":"B", "text":"A collection of SAP systems that are connected by transport routes", "answer":"incorrect"},
         {"label":"C", "text":"A collection of SAP systems that share the same transport directory", "answer":"correct"},
-        {"label":"D", "text":"A collection of SAP systems that are controlled by same transport domain controller", "answer":"correct"}
+        {"label":"D", "text":"A collection of SAP systems that are controlled by same transport domain controller", "answer":"incorrect"}
     ],
     "description":
     "<a href=https://github.com/koishi755/SAP/wiki/014.-Transport-Management-System-overview#4-transport-domain-and-transport-group target=_blank> Transport Group</a>"
@@ -67,7 +68,7 @@
       {"label":"D", "text":"Use of the AS ABAP Data buffer", "answer":"correct"}
     ],
     "description":
-    "<a href=https://it-biz.online/sap/opensql-nativesql target=_blank>【ABAP】オープンSQL/ネイティブSQLの違いを３分で/a>"
+    "<a href=https://it-biz.online/sap/opensql-nativesql target=_blank>【ABAP】オープンSQL/ネイティブSQLの違いを３分で</a>"
   }
 ,
   "7":{
@@ -83,27 +84,28 @@
   }
   ,
   "8":{
-    "quiz":"",
+    "quiz":"When importing a transport request, which steps are executed by a batch job? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"correct"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Distribution of dictionary objects", "answer":"incorrect"},
+        {"label":"B", "text":"Activation of dictionary objects", "answer":"correct"},
+        {"label":"C", "text":"Activation of ABAP program", "answer":"incorrect"},
+        {"label":"D", "text":"import of dictionary objects", "answer":"correct"},
+        {"label":"E", "text":"Move nametab", "answer":"correct"}
     ],
     "description":
     ""
   }
   ,
   "9":{
-    "quiz":"",
+    "quiz":"Which services can you stop in the SAP HANA cockpit from the SYSTEMDB Manage Services app? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"correct"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Daemon", "answer":"incorrect"},
+        {"label":"B", "text":"Index server", "answer":"incorrect"},
+        {"label":"C", "text":"Preprocessor", "answer":"correct"},
+        {"label":"D", "text":"Compile server", "answer":"correct"}
     ],
     "description":
-    ""
+    "以下のようにSAP HANA cockpitではdeamonを除くサービスを停止できます。<img src=https://blogs.sap.com/wp-content/uploads/2017/09/start-annotated.png><br><a href=https://blogs.sap.com/2017/09/12/start-and-stop-sap-hana-on-gcp-by-the-sap-hana-academy target=_blank>Start and Stop SAP HANA</a>"
   }
   ,
   "10":{
