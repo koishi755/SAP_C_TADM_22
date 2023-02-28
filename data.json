@@ -219,15 +219,15 @@
   }
   ,
   "19":{
-    "quiz":"",
+    "quiz":"What is the purpose of the SAP HANA secure user store (hdbuserstore)?Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"To configure failover support in a 3-tier scenario", "answer":"correct"},
+        {"label":"B", "text":"To store connection information on the SAP HANA XS advanced engine", "answer":"incorrect"},
+        {"label":"C", "text":"To store connection information on the SAP HANA database client", "answer":"correct"},
+        {"label":"D", "text":"To configure an SAP HANA auto-restart for fault recovery", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名く</a> "
+    "<a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/b3ee5778bc2e4a089d3299b82ec762a7/dd95ac9dbb571014a7d7f0234d762fdb.html?version=2.0.05&locale=en-US target=_blank>Secure User Store (hdbuserstore)く</a> "
   }
   ,
   "20":{
