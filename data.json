@@ -197,10 +197,10 @@
     "quiz":"You are running an AS ABAP-based SAP system. Which parts does the Internet Server Cache (ISC) of the ICM process consist of? Note: There are 3 correct answers to this question.",
     "option":[
         {"label":"A", "text":"CPU cache", "answer":"incorrect"},
-        {"label":"B", "text":"Memory cache", "answer":"incorrect"},
-        {"label":"C", "text":"Browser cache", "answer":"correct"},
-        {"label":"D", "text":"Disk cache", "answer":"incorrect"},
-        {"label":"D", "text":"UFO cache", "answer":"incorrect"}
+        {"label":"B", "text":"Memory cache", "answer":"correct"},
+        {"label":"C", "text":"Browser cache", "answer":"incorrect"},
+        {"label":"D", "text":"Disk cache", "answer":"correct"},
+        {"label":"D", "text":"UFO cache", "answer":"correct"}
     ],
     "description":
     "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/72/c2153aab4a0c0ee10000000a114084/frameset.htm target=_blank>ICM サーバキャッシュ く</a> "
