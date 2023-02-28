@@ -158,12 +158,12 @@
   }
   ,
   "14":{
-    "quiz":"",
+    "quiz":"You want to perform rapid activation for SAP Fiori. In what order should you run the task lists?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"1.SAP_FIORI_FOUNDATION_S4 | 2.SAP_GW_FIORI_ERP_ONE_CLNT_SETUP | 3.SAP_FIORI_CONTENT_ACTIVATION ", "answer":"incorrect"},
+        {"label":"B", "text":"1.SAP_GW_FIORI_ERP_ONE_CLNT_SETUP | 2.SAP_FIORI_CONTENT_ACTIVATION | 3.SAP_FIORI_FOUNDATION_S4", "answer":"incorrect"},
+        {"label":"C", "text":"1.SAP_FIORI_FOUNDATION_S4 | 2.SAP_FIORI_CONTENT_ACTIVATION | 3.SAP_GW_FIORI_ERP_ONE_CLNT_SETUP", "answer":"incorrect"},
+        {"label":"D", "text":"1.SAP_GW_FIORI_ERP_ONE_CLNT_SETUP | 2.SAP_FIORI_FOUNDATION_S4 | 3.SAP_FIORI_CONTENT_ACTIVATION", "answer":"correct"}
     ],
     "description":
     "<a href=ぱす target=_blank>りんく</a> "
@@ -178,6 +178,6 @@
         {"label":"D", "text":"", "answer":"incorrect"}
     ],
     "description":
-    "<a href=ぱす target=_blank>りんく</a> "
+    "<a href=https://qiita.com/tami/items/d468e49c915c7d55ac25 target=_blank>Fiori Launchpadを開く</a> "
   }
 }
