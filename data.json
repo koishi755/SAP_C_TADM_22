@@ -166,10 +166,34 @@
         {"label":"D", "text":"1.SAP_GW_FIORI_ERP_ONE_CLNT_SETUP | 2.SAP_FIORI_FOUNDATION_S4 | 3.SAP_FIORI_CONTENT_ACTIVATION", "answer":"correct"}
     ],
     "description":
-    "<a href=ぱす target=_blank>りんく</a> "
+    "<a href=https://qiita.com/tami/items/d468e49c915c7d55ac25 target=_blank>Fiori Launchpadを開く</a> "
   }
   ,
   "15":{
+    "quiz":"You are using the enhanced Change and Transport System (CTS+) for the transport of native SAP HANA applications. Which tool can you use to create a transport request for these applications in the CTS system?",
+    "option":[
+        {"label":"A", "text":"SAP HANA Cockpit", "answer":"incorrect"},
+        {"label":"B", "text":"Transport Organizer(in transaction SE09)", "answer":"incorrect"},
+        {"label":"C", "text":"Transport Organizer Web UI(in transaction STMS)", "answer":"correct"},
+        {"label":"D", "text":"Transport Organizer (Extended View)(in transaction SE01)", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://qiita.com/tami/items/d468e49c915c7d55ac25 target=_blank>Fiori Launchpadを開く</a> "
+  }
+  ,
+  "16":{
+    "quiz":"What is the correct parameter replacement sequence in an AS Java-based SAP system?(Note: the sequences below are sorted by priority from highest to lowest).",
+    "option":[
+        {"label":"A", "text":"Instance custom | Template custom | Template Default", "answer":"incorrect"},
+        {"label":"B", "text":"Template custom | Instance custom | Template Default", "answer":"incorrect"},
+        {"label":"C", "text":"Template Default | Template custom | Instance custom", "answer":"correct"},
+        {"label":"D", "text":"Instance custom | Template Default | Template custom ", "answer":"incorrect"}
+    ],
+    "description":
+    "いつか検証したい"
+  }
+  ,
+  "17":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
@@ -178,6 +202,54 @@
         {"label":"D", "text":"", "answer":"incorrect"}
     ],
     "description":
-    "<a href=https://qiita.com/tami/items/d468e49c915c7d55ac25 target=_blank>Fiori Launchpadを開く</a> "
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "18":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "19":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "20":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "21":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
   }
 }
