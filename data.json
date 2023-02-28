@@ -207,15 +207,15 @@
   }
   ,
   "18":{
-    "quiz":"",
+    "quiz":"In an AS ABAP-based SAP system, what can you use to change the value of a dynamically switchable parameter at runtime?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Transaction Edit Profiles(RZ10)", "answer":"incorrect"},
+        {"label":"B", "text":"Transaction Edit Profile Parameters(RZ11)", "answer":"correct"},
+        {"label":"C", "text":"Report RSPFPAR", "answer":"incorrect"},
+        {"label":"D", "text":"Command line tool sappfpar", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名く</a> "
+    "<a href=https://www.granpaz.co.jp/sap/698/#index_id4 target=_blank>グランパスの解説く</a> "
   }
   ,
   "19":{
