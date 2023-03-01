@@ -231,15 +231,16 @@
   }
   ,
   "20":{
-    "quiz":"",
+    "quiz":"Which of the following tools are used when importing a transport request? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"RDDNEPP", "answer":"incorrect"},
+        {"label":"B", "text":"R3load", "answer":"incorrect"},
+        {"label":"C", "text":"R3trans", "answer":"correct"},
+        {"label":"D", "text":"tp", "answer":"correct"},
+        {"label":"D", "text":"RDDIMPDP", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名く</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/3d/ad5c974ebc11d182bf0000e829fbfe/frameset.htm target=_blank>R3Trans </a><br> <a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/3d/ad5c974ebc11d182bf0000e829fbfe/frameset.htm target=_blank>移送制御プログラム tp </a><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/3d/ad5c784ebc11d182bf0000e829fbfe/frameset.htm target=_blank>RDDIMPDP</a><br>"
   }
   ,
   "21":{
