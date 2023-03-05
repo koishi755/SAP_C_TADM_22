@@ -329,6 +329,18 @@
   }
   ,
   "28":{
+    "quiz":"What can you do to determine the SAPUI5 patch level in an AS ABAP-based SAP system?",
+    "option":[
+        {"label":"A", "text":"Execute the ICF service /sap/public/bc/ui5_ui5", "answer":"incorrect"},
+        {"label":"B", "text":"Use the program WDG_MAINTAIN_UR_MIMES", "answer":"incorrect"},
+        {"label":"C", "text":"Check the version of the software component SAP_UI", "answer":"correct"},
+        {"label":"D", "text":"Use the program /UI5/UI5_UPLOAD_PATCH_TO_MIME", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://blogs.sap.com/2019/06/07/how-to-check-the-ui5-version-you-have-installed/ target=_blank>How to check the UI5く</a> "
+  }
+  ,
+  "29":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
