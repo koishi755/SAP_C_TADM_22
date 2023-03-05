@@ -317,6 +317,18 @@
   }
   ,
   "27":{
+    "quiz":"In an AS ABAP-based SAP system, where is the lock table stored?",
+    "option":[
+        {"label":"A", "text":"The file system of the Primary Application Server instance", "answer":"incorrect"},
+        {"label":"B", "text":"The main memory of the Primary Application Server instance", "answer":"incorrect"},
+        {"label":"C", "text":"The main memory of the Central Services instance", "answer":"correct"},
+        {"label":"D", "text":"Database", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/12/038337fb02735ce10000009b38f8cf/frameset.htm target=_blank>ロックテーブル </a> "
+  }
+  ,
+  "28":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
