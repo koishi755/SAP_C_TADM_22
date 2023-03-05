@@ -244,6 +244,54 @@
   }
   ,
   "21":{
+    "quiz":"You want to add an SAP Fiori group to a user's SAP Fiori launchpad.To what do you have to assign the SAP Fiori group?",
+    "option":[
+        {"label":"A", "text":"To a role assigned to the user", "answer":"incorrect"},
+        {"label":"B", "text":"To an authorization profile assigned to the user", "answer":"incorrect"},
+        {"label":"C", "text":"To a user group assigned to the user", "answer":"incorrect"},
+        {"label":"D", "text":"To a parameter ID of the user", "answer":"correct"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "22":{
+    "quiz":"When you install SAP Solution Manager Java, what information do you need to provide?Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"The package  path to additional installation media", "answer":"incorrect"},
+        {"label":"B", "text":"The decision to use an External AS ABAP-based System as UME Data Source", "answer":"correct"},
+        {"label":"C", "text":"Tha package path to an archive for SAP JVM", "answer":"correct"},
+        {"label":"D", "text":"The decision on whether to install an SAP Gateway integrated with the SCS instance", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://help.sap.com/docs/help/3e7fe88850cf4ee39d151949a990d8ca/a6972e3de24a435b8f695b8aef2b074a.html target=_blank>インストール手順く</a> "
+  }
+  ,
+  "23":{
+    "quiz":"What is the correct sequence of the following four steps when you restart the SAP HANA database system?",
+    "option":[
+        {"label":"A", "text":"1. Aborted transactions are rolled pack. <br> 2. Row tables are loadede into memory. <br> 3. Open transactions are recovered. <br> 4. Column tables are loaded", "answer":"incorrect"},
+        {"label":"B", "text":"1. Row tables are loadede into memory. <br> 2. Open transactions are recovered. <br> 3. Aborted transactions are rolled pack. <br> 4. Column tables are loaded", "answer":"incorrect"},
+        {"label":"C", "text":"1. Aborted transactions are rolled pack. <br> 2. Open transactions are recovered. <br> 3. Row tables are loadede into memory. <br> 4. Column tables are loaded", "answer":"correct"},
+        {"label":"D", "text":"1. Row tables are loadede into memory. <br> 2. Column tables are loaded <br> 3. Open transactions are recovered. <br> 4. Aborted transactions are rolled pack.", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "24":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "25":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
