@@ -276,7 +276,7 @@
         {"label":"D", "text":"1. Row tables are loadede into memory. <br> 2. Column tables are loaded <br> 3. Open transactions are recovered. <br> 4. Aborted transactions are rolled pack.", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名く</a> "
+    "<a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/6b94445c94ae495c83a19646e7c3fd56/6e1bd0869cf44c5caaadf97c50c4cfe5.html target=_blank>SAP HANA Restart Sequenceく</a> "
   }
   ,
   "24":{
