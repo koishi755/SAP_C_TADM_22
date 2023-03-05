@@ -305,6 +305,18 @@
   }
   ,
   "26":{
+    "quiz":"In an embedded deployment, which protocol is used by object pages to access the SAP S/4HANA system?",
+    "option":[
+        {"label":"A", "text":"RFC", "answer":"incorrect"},
+        {"label":"B", "text":"OData", "answer":"correct"},
+        {"label":"C", "text":"DIAG", "answer":"incorrect"},
+        {"label":"D", "text":"InA", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://blogs.sap.com/2021/05/26/cap%E3%81%A7sap-hana-cloud%E3%81%AE%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%82%92odata%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%A8%E3%81%97%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B/ target=_blank>SAP HANA CloudのテーブルをODataサービス</a> "
+  }
+  ,
+  "27":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
