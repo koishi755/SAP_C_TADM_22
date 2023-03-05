@@ -292,6 +292,19 @@
   }
   ,
   "25":{
+    "quiz":"You want to configure the TMS QA Approval procedure for an AS ABAP-based system landscape. Which of the following are pre-defined approval steps that you can choose? Note: There are 3 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"To be approvaled by the system adminstrator", "answer":"correct"},
+        {"label":"B", "text":"To be approved by the developer", "answer":"incorrect"},
+        {"label":"C", "text":"To be approved by a project manager", "answer":"incorrect"},
+        {"label":"D", "text":"To be approved by request owner", "answer":"correct"},
+        {"label":"D", "text":"To be approved by depertment", "answer":"correct"}
+    ],
+    "description":
+    "<a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/9c/a544cfc57111d2b438006094b9ea64/frameset.htm target=_blank>承認ステップの決定 く</a> "
+  }
+  ,
+  "26":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
