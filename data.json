@@ -270,10 +270,10 @@
   "23":{
     "quiz":"What is the correct sequence of the following four steps when you restart the SAP HANA database system?",
     "option":[
-        {"label":"A", "text":"1. Aborted transactions are rolled pack. <br> 2. Row tables are loadede into memory. <br> 3. Open transactions are recovered. <br> 4. Column tables are loaded", "answer":"incorrect"},
-        {"label":"B", "text":"1. Row tables are loadede into memory. <br> 2. Open transactions are recovered. <br> 3. Aborted transactions are rolled pack. <br> 4. Column tables are loaded", "answer":"incorrect"},
-        {"label":"C", "text":"1. Aborted transactions are rolled pack. <br> 2. Open transactions are recovered. <br> 3. Row tables are loadede into memory. <br> 4. Column tables are loaded", "answer":"correct"},
-        {"label":"D", "text":"1. Row tables are loadede into memory. <br> 2. Column tables are loaded <br> 3. Open transactions are recovered. <br> 4. Aborted transactions are rolled pack.", "answer":"incorrect"}
+        {"label":"A", "text":"1. Aborted transactions are rolled pack. <br> 2. Row tables are loadede into memory. <br> 3. Open transactions are recovered. <br> 4. Column tables are loaded <br>", "answer":"incorrect"},
+        {"label":"B", "text":"1. Row tables are loadede into memory. <br> 2. Open transactions are recovered. <br> 3. Aborted transactions are rolled pack. <br> 4. Column tables are loaded <br>", "answer":"incorrect"},
+        {"label":"C", "text":"1. Aborted transactions are rolled pack. <br> 2. Open transactions are recovered. <br> 3. Row tables are loadede into memory. <br> 4. Column tables are loaded <br>", "answer":"correct"},
+        {"label":"D", "text":"1. Row tables are loadede into memory. <br> 2. Column tables are loaded <br> 3. Open transactions are recovered. <br> 4. Aborted transactions are rolled pack. <br>", "answer":"incorrect"}
     ],
     "description":
     "<a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/6b94445c94ae495c83a19646e7c3fd56/6e1bd0869cf44c5caaadf97c50c4cfe5.html target=_blank>SAP HANA Restart Sequenceく</a> "
