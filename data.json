@@ -341,6 +341,30 @@
   }
   ,
   "29":{
+    "quiz":"In an SAP S/4HANA Server system, a target system alias, FIORI, is maintained for the source system alias S4FIN. Which connection is relevant for the extraction of back-end catalogs with alias S4FIN?",
+    "option":[
+        {"label":"A", "text":"S4FIN_RFC", "answer":"incorrect"},
+        {"label":"B", "text":"S4FIN_HTTPS", "answer":"correct"},
+        {"label":"C", "text":"FIORI_RFC", "answer":"incorrect"},
+        {"label":"D", "text":"FIORI_HTTPS", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名く</a> "
+  }
+  ,
+  "30":{
+    "quiz":"In an AS ABAP-based SAP system, you are printing a list to a remote printer (host spool access method S or U) using SAP GUI. What route does the printing data take?",
+    "option":[
+        {"label":"A", "text":"1. Dialog Workprocess <br> 2. TemSe <br> 3. Spool Workprocess <br> 4. Printer <br>", "answer":"incorrect"},
+        {"label":"B", "text":"1. Spool Workprocess <br> 2. TemSe <br> 3. Printer<br>", "answer":"correct"},
+        {"label":"C", "text":"1. Dialog Workprocess <br> 2. Spool Workprocess <br> 3. TemSe <br> 4. Printer<br>", "answer":"incorrect"},
+        {"label":"D", "text":"1. Spool Workprocess <br> 2. TemSe <br> 3. Dispatcher <br> 4. Printer", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/c1/d4ea3bb5af9112e10000000a11402f/frameset.htm target=_blank>リモート印刷</a> "
+  }
+  ,
+  "31":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
