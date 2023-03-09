@@ -377,6 +377,30 @@
   }
   ,
   "32":{
+    "quiz":"When performing a local client copy with transaction SCCLN, in which client is it recommended to start the client copy?",
+    "option":[
+        {"label":"A", "text":"A client different from both the source and the target client", "answer":"incorrect"},
+        {"label":"B", "text":"The target client", "answer":"correct"},
+        {"label":"C", "text":"The source client", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://blogs.sap.com/2020/11/03/new-client-copy-tool/ target=_blank>New Client Copy Tool</a> "
+  }
+  ,
+  "33":{
+    "quiz":"Which tools can be used to create SAP Fiori catalogs? Note: There are 3 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"correct"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "34":{
     "quiz":"?",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
@@ -388,7 +412,19 @@
     "<a href=りんく target=_blank>りんく名</a> "
   }
   ,
-  "33":{
+  "35":{
+    "quiz":"?",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "36":{
     "quiz":"?",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
