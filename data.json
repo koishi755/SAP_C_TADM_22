@@ -413,15 +413,15 @@
   }
   ,
   "35":{
-    "quiz":"?",
+    "quiz":"You have passed the initial authentication for an SAP Fiori transactional app. Which authentication technology is used for subsequent OData calls of this app?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"SAP logon tickets", "answer":"incorrect"},
+        {"label":"B", "text":"ABAP Session Security", "answer":"incorrect"},
+        {"label":"C", "text":"X.509 client certificates", "answer":"correct"},
+        {"label":"D", "text":"SAML2.0", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-US/43/dc1fa58048070ee10000000a422035/frameset.htm target=_blank>X.509 Client Certificates</a> "
   }
   ,
   "36":{
