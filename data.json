@@ -401,15 +401,15 @@
   }
   ,
   "34":{
-    "quiz":"?",
+    "quiz":"You are preparing an installation of an AS ABAP-based SAP system. You already downloaded all software that Maintenance Planner can calculate. What else must you download?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"SAPCAR", "answer":"correct"},
+        {"label":"B", "text":"SAP Host Agent", "answer":"incorrect"},
+        {"label":"C", "text":"SPAM/SAINT update", "answer":"incorrect"},
+        {"label":"D", "text":"SAP kernel", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/48/360d61bbdd31c3e10000000a42189d/frameset.htm target=_blank>SAPCAR</a> "
   }
   ,
   "35":{
