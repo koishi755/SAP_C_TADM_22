@@ -390,14 +390,14 @@
   "33":{
     "quiz":"Which tools can be used to create SAP Fiori catalogs? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"correct"}
+        {"label":"A", "text":"SAP Fiori launchpad content aggregator(/UI2/FLPCA)", "answer":"incorrect"},
+        {"label":"B", "text":"SAP Fiori launchpad settings(/UI2/FLP_CUS_CONF)", "answer":"correct"},
+        {"label":"C", "text":"SAP Fiori launchpad application manager(/UI2/FRPAM)", "answer":"incorrect"},
+        {"label":"D", "text":"SAP Fiori launchpad content manager(/UI2/FLPCM_CUST)", "answer":"correct"},
+        {"label":"D", "text":"SAP Fiori launchpad designer(/UI2/FLPD_CUST)", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/ABAP_PLATFORM/a7b390faab1140c087b8926571e942b7/eae3cc31b1d34d139d153067fcecd975.html?locale=en-US target=_blank>Setting Parameters in SAP Fiori Customizing</a><br><a href=https://help.sap.com/docs/SAP%20Fiori%20launchpad/d4650bf68a9f4f67a1fda673f09926a9/1e569e00739946a1a974a46925dcd879.html target=_blank></a>/UI2/FLPCM_CUSTについて<br><a href=https://stratserv.co/2022/03/how-to-add-abap-custom-sap-transactions-to-the-fiori-launchpad-by-saps-abir-cherif/ target=_blank>/UI2/FLPD_CUSTについて</a><br><a href=https://blogs.sap.com/2019/03/15/sap-fiori-catalog-business-group-role-creation/ target=_blank>SAP Fiori Catalog, Business Group & Role Creation</a> <br><a href=https://blogs.sap.com/2022/06/30/basics-of-fiori-apps-authorizations-and-catalog-group/ target=_blank>How to create Fiori Catalog, Group and custom Fiori tiles</a> "
   }
   ,
   "34":{
