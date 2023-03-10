@@ -425,7 +425,79 @@
   }
   ,
   "36":{
-    "quiz":"?",
+    "quiz":"When performing a standard SAP HANA database system installation, which users will be created or validated during that installation? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"SYSTEM", "answer":"correct"},
+        {"label":"B", "text":"<sid>crypt", "answer":"correct"},
+        {"label":"C", "text":"sapadm", "answer":"incorrect"},
+        {"label":"D", "text":"SAP<SID>", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "37":{
+    "quiz":"You are updating an AS Java-based SAP system. Which actions can Software Update Manager execute? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"Request a Modification Adjustment", "answer":"incorrect"},
+        {"label":"B", "text":"Update without using stack configration file (stack XML file)", "answer":"incorrect"},
+        {"label":"C", "text":"Lock the development environment", "answer":"correct"},
+        {"label":"D", "text":"Check the archives authenticity", "answer":"correct"}
+    ],
+    "description":
+    "<a href=https://help.sap.com/docs/SAP_BUSINESSOBJECTS_BUSINESS_INTELLIGENCE_PLATFORM/b5c0acee766744a9bbc897356f33b962/46f915ed6e041014910aba7db0e91070.html?locale=ja-JP&version=4.2.9 target=_blank>SAP Software Update Manager/a> "
+  }
+  ,
+  "38":{
+    "quiz":"How does a Transport of Copies differ from a Workbench Request? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"When importing, the transport request is not forwarded to subsequent delivery systems", "answer":"correct"},
+        {"label":"B", "text":"No cofile is created, when releasing the transport request with the Transport Organizer(SE09)", "answer":"correct"},
+        {"label":"C", "text":"After the import, repository objects in the target system are classified as copies.", "answer":"incorrect"},
+        {"label":"D", "text":"When createing the transport request, a target system without a consolidation route can be selected.", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://blogs.sap.com/2010/08/12/transport-of-copies-toc-small-yet-powerful-concept/ target=_blank>Transport of Copies</a> <br> <a href=https://answers.sap.com/questions/2709337/work-bench-request-vs-customized-request.html target=_blank>Work bench request vs Customized request</a> "
+  }
+  ,
+  "39":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "40":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "41":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "42":{
+    "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
         {"label":"B", "text":"", "answer":"correct"},
