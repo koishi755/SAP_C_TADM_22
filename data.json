@@ -486,15 +486,15 @@
   }
   ,
   "41":{
-    "quiz":"",
+    "quiz":"You are configuring outbound e-mails for an AS ABAP-based SAP system. What can you use to set the default domain?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Report RSADRCK7", "answer":"incorrect"},
+        {"label":"B", "text":"Profile parameters is /SMTP/virt_host_<x>", "answer":"incorrect"},
+        {"label":"C", "text":"Transaction SCOT", "answer":"correct"},
+        {"label":"D", "text":"File DOMAIN.CFG", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/55/a8b538891b11d2a25a00a0c943858e/frameset.htm target=_blank>SAP システムでの外部送信 </a> "
   }
   ,
   "42":{
