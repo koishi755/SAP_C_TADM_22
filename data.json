@@ -461,27 +461,28 @@
   }
   ,
   "39":{
-    "quiz":"",
+    "quiz":"Your SAP S/4HANA Server system consists of an ABAP Central Services instance, a Primary Application Server instance, and two Additional Application Server instances. How many system profile files are evaluated for this SAP system during a complete system start?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"5", "answer":"correct"},
+        {"label":"B", "text":"4", "answer":"incorrect"},
+        {"label":"C", "text":"3", "answer":"incorrect"},
+        {"label":"D", "text":"9", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=りんく target=_blank>作成中</a> "
   }
   ,
   "40":{
-    "quiz":"",
+    "quiz":"When performing a local client copy, which client copy profiles are available? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Customizing Including Cross-Client Customizing", "answer":"correct"},
+        {"label":"B", "text":"User Master Records and Authrization Profiles", "answer":"correct"},
+        {"label":"C", "text":"Appliaction Data and User Master Data", "answer":"incorrect"},
+        {"label":"D", "text":"Customizing, User Master Records and User Variants", "answer":"incorrect"},
+        {"label":"E", "text":"All Client-Specific Data w/o Change Documents", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/99/0a2a887e2511d2a6250000e82deaaa/frameset.htm target=_blank>コピープロファイル</a> "
   }
   ,
   "41":{
