@@ -498,6 +498,54 @@
   }
   ,
   "42":{
+    "quiz":"The SAP Fiori launchpad is working for your users. How can you enable access to the SAP Easy Access menu for them in the app finder? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"By providing an HTTP destination type H named FIORI_CLASSICUI_HTTPS(SM59)", "answer":"incorrect"},
+        {"label":"B", "text":"By assigning the authrization to start transaction SEARCH_SAP_MENU", "answer":"incorrect"},
+        {"label":"C", "text":"By assigning the correct target mapping, shipped via catalog /UI2/CLASSICAL_GUI_MENU", "answer":"correct"},
+        {"label":"D", "text":"By applying the correct settings in the SAP Fiori launchpad configration(transaction /UI2/FLP_SYS_CONF or /UI2/FLP_CUS_CONF)", "answer":"correct"}
+    ],
+    "description":
+    "<a href=https://blogs.sap.com/2019/05/05/new-installation-of-s4hana-1809fps0-part-4-rapid-activation-for-fiori/ target=_blank>New Installation of S/4HANA 1809FPS0 – Part 4 – Rapid Activation for Fiori</a> <br> <a href=https://blogs.sap.com/2020/01/07/sap-fiori-for-sap-s-4hana-how-to-setup-the-user-assistant-in-your-s-4hana-fiori-launchpad/ target=_blank>SAP Fiori for SAP S/4HANA – How to setup the User Assistant in your S/4HANA Fiori launchpad</a>"
+  }
+  ,
+  "43":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "44":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "45":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "46":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
