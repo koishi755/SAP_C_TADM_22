@@ -522,15 +522,15 @@
   }
   ,
   "44":{
-    "quiz":"",
+    "quiz":"You plan to update an AS ABAP-based SAP system with the role 'Quality Assurance System'. What does SAP recommend you do before you start Software Update Manager (SUM) for this system? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Apply the latest SAP Host Agent patch", "answer":"incorrect"},
+        {"label":"B", "text":"Execute the SAP Load Generator(SGEN) transaction for invalid loads", "answer":"incorrect"},
+        {"label":"C", "text":"Import the modification adjustment transports from the Development System", "answer":"correct"},
+        {"label":"D", "text":"Follow the instruction from SAP Note 'Central Note - software update Manager' for the used version of SUM' ", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SAP_INFORMATION_STEWARD/c131a9bafa7d434ab6bebfabe94f5cd5/f31f8b023ece4e4e9f052e7184683959.html?version=4.2.12&locale=ja-JP target=_blank>SUM</a> "
   }
   ,
   "45":{
