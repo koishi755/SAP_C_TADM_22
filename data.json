@@ -546,6 +546,66 @@
   }
   ,
   "46":{
+    "quiz":"You want to set up a local printer on a Microsoft Windows-based AS ABAP-based SAP system.Which host spool access method must you use?",
+    "option":[
+        {"label":"A", "text":"C", "answer":"correct"},
+        {"label":"B", "text":"G", "answer":"incorrect"},
+        {"label":"C", "text":"L", "answer":"incorrect"},
+        {"label":"D", "text":"U", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://github.com/koishi755/SAP/wiki/022.-Printer-Configuration#03-remote-printing target=_blank>SPOOL アクセスメソッド</a> "
+  }
+  ,
+  "47":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "48":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "49":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "50":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "51":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
