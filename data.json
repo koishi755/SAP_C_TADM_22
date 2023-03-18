@@ -534,15 +534,15 @@
   }
   ,
   "45":{
-    "quiz":"",
+    "quiz":"You have restarted the Primary Application Server instance. After the restart, changes will take effect for which profiles? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Additinal Application Server instance profile", "answer":"incorrect"},
+        {"label":"B", "text":"Primary Application Server instance profile", "answer":"correct"},
+        {"label":"C", "text":"Default profile", "answer":"correct"},
+        {"label":"D", "text":"Central Services instance profile", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/c4/3a62bc505211d189550000e829fbbd/frameset.htm target=_blank>プロファイルの参照サーバ</a> <br> <a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/c4/3a6136505211d189550000e829fbbd/frameset.htm target=_blank>デフォルトプロファイル </a> "
   }
   ,
   "46":{
