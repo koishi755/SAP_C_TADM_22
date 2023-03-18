@@ -510,15 +510,15 @@
   }
   ,
   "43":{
-    "quiz":"",
+    "quiz":"Using standard transport protocol settings, after importing a transport request, which log file provides the return codes of the individual import steps?(Note: These answers use the following abbreviations: year <YY>, week: <WW>, quarter <Q>, SAP system ID <SID>, and a 5-digit number <nnnnn>.)",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"ALOG<YY><WW>.<SID>", "answer":"correct"},
+        {"label":"B", "text":"<SID>E9<nnnnn>.<SID>", "answer":"incorrect"},
+        {"label":"C", "text":"SLOG<YY><WW>.<SID>", "answer":"incorrect"},
+        {"label":"D", "text":"ULOG<YY>_<Q>", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/e7/0db6a9f9d211d184870000e8a57770/frameset.htm target=_blank>ログファイル ALOG  </a> <br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/e7/0db6a6f9d211d184870000e8a57770/frameset.htm target=_blank>ログファイル SLOG  </a> <br> <a href=https://answers.sap.com/questions/5727327/slog-alog-ulog-contains.html target=_blank>slog, alog, ulog contains</a> "
   }
   ,
   "44":{
