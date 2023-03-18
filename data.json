@@ -558,15 +558,16 @@
   }
   ,
   "47":{
-    "quiz":"",
+    "quiz":"Using standard tp settings, what are features of the transport strategy \"Queue-Driven Transports, Mass transports\" but NOT of transport strategy \"Queue-Driven Transports, Single transports\"?Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Return Code 8 is considered a successful import.", "answer":"incorrect"},
+        {"label":"B", "text":"The import process can be scheduled in the background.", "answer":"correct"},
+        {"label":"C", "text":"Using the 'Import Request' button causes the imported transport requests to remain in the import queue.", "answer":"correct"},
+        {"label":"D", "text":"Return Code 16 is caused by an erroneous object in a transport requrst.", "answer":"incorrect"},
+        {"label":"E", "text":"The 'Import ALL Requests' button is available", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SOFTWARE_LOGISTICS_TOOLSET_CTS_PLUG-IN/05c12df5b54849c49940a14bc089d8b4/40e42396853d11d3b48100609419f767.html?locale=en-US target=_blank>Transport Strategy</a> "
   }
   ,
   "48":{
