@@ -571,15 +571,16 @@
   }
   ,
   "48":{
-    "quiz":"",
+    "quiz":"You configure the Transport Management System (TMS) as part of the installation of an AS ABAP-based SAP system. What information can you supply for the first SAP system that uses a specific transport directory? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"The user ID of a new user that will be created.", "answer":"incorrect"},
+        {"label":"B", "text":"The password of a new user that will be created.", "answer":"correct"},
+        {"label":"C", "text":"The name of Transport Domain", "answer":"correct"},
+        {"label":"D", "text":"The name of Transport Group", "answer":"incorrect"},
+        {"label":"E", "text":"The description of the AS ABAP-based SAP system.", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/44/b4a0b47acc11d1899e0000e829fbbd/frameset.htm target=_blank>移送/修正システム(CTS) </a> "
   }
   ,
   "49":{
