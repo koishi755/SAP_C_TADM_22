@@ -705,15 +705,15 @@
   }
   ,
   "59":{
-    "quiz":"",
+    "quiz":"You are installing an SAP S/4HANA Server 2021 system, using s4xhost as the application server host and haxhost as the database host. Which actions can Software Provisioning Manager (SWPM) perform?Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Install the database on haxhost", "answer":"correct"},
+        {"label":"B", "text":"Copy the database installation media from s4xhost to haxhost", "answer":"incorrect"},
+        {"label":"C", "text":"Install the Central Services instance on s4xhost", "answer":"incorrect"},
+        {"label":"D", "text":"Set database import parameters for database running on haxhost", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://blogs.sap.com/2023/02/23/new-installation-of-sap-s-4hana-2022-fps1-part-1-maintenance-planner/ target=_blank>New Installation of SAP S/4HANA</a> "
   }
   ,
   "60":{
