@@ -644,15 +644,16 @@
   }
   ,
   "54":{
-    "quiz":"",
+    "quiz":"Which actions can be performed with the Software Update Manager (SUM) for an AS ABAP-based SAP system? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Applying a SPAM/SAINT update", "answer":"correct"},
+        {"label":"B", "text":"Correcting software informatin via a CISI run", "answer":"incorrect"},
+        {"label":"C", "text":"Installing an SAP Host Agent", "answer":"correct"},
+        {"label":"D", "text":"Applying an SAP kernel patch", "answer":"incorrect"},
+        {"label":"E", "text":"Setting up the Transport Managment System(TMS)", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SAP_INFORMATION_STEWARD/c131a9bafa7d434ab6bebfabe94f5cd5/f31f8b023ece4e4e9f052e7184683959.html?version=4.2.12&locale=ja-JP target=_blank>SUM</a> "
   }
   ,
   "55":{
