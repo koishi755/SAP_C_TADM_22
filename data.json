@@ -620,15 +620,15 @@
   }
   ,
   "52":{
-    "quiz":"",
+    "quiz":"Which app types need SAP HANA as a system database? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Transactional apps", "answer":"correct"},
+        {"label":"B", "text":"Analytical apps", "answer":"correct"},
+        {"label":"C", "text":"Classic applications", "answer":"incorrect"},
+        {"label":"D", "text":"Fact sheet apps", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/saphelp_ssb/helpdata/en/7e/4076547363054ee10000000a423f68/frameset.htm target=_blank>Transactional Apps</a> <br> <a href=https://www.tutorialspoint.com/sap_fiori/sap_fiori_analytical_apps.htm target=_blank>SAP Fiori - Analytical Apps</a>  "
   }
   ,
   "53":{
