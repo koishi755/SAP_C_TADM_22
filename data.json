@@ -717,15 +717,16 @@
   }
   ,
   "60":{
-    "quiz":"",
+    "quiz":"When installing an SAP S/4HANA Server 2021 system, which actions can the Software Provisioning Manager (SWPM) perform only when the installation is started with the option SAPINST_STACK_XML?Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Apply a SAPM/SAINT update", "answer":"correct"},
+        {"label":"B", "text":"Install an SAP Host Agent", "answer":"correct"},
+        {"label":"C", "text":"Install additinal languages", "answer":"incorrect"},
+        {"label":"D", "text":"Set up Transport Management System(TMS)", "answer":"incorrect"},
+        {"label":"E", "text":"Set the password of user DDIC in client 000", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://blogs.sap.com/2023/02/23/new-installation-of-sap-s-4hana-2022-fps1-part-1-maintenance-planner/ target=_blank>New Installation of SAP S/4HANA</a>"
   }
   ,
   "61":{
