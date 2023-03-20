@@ -693,15 +693,15 @@
   }
   ,
   "58":{
-    "quiz":"",
+    "quiz":"For AS ABAP-based SAP systems, you can use Software Update Manager to update which of the following? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Database system", "answer":"incorrect"},
+        {"label":"B", "text":"Software component SAP_BASIS", "answer":"correct"},
+        {"label":"C", "text":"SAP Host Agent", "answer":"incorrect"},
+        {"label":"D", "text":"SAP kernel", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://www.sapbasiseasy.com/how-to-update-sap-kernel-using-software-update-manager-sum/ target=_blank>How to update SAP kernel using SUM</a> "
   }
   ,
   "59":{
