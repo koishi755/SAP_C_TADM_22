@@ -669,6 +669,78 @@
   }
   ,
   "56":{
+    "quiz":"How does SAP HANA encrypt the data persistence layer?",
+    "option":[
+        {"label":"A", "text":"By row level", "answer":"incorrect"},
+        {"label":"B", "text":"By column level", "answer":"incorrect"},
+        {"label":"C", "text":"By table level", "answer":"incorrect"},
+        {"label":"D", "text":"By page level", "answer":"correct"}
+    ],
+    "description":
+    "<a href=https://blogs.sap.com/2022/11/18/sap-hana-database-encryption/ target=_blank>SAP HANA Database Encryption</a> "
+  }
+  ,
+  "57":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "58":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "59":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "60":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "61":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "62":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
