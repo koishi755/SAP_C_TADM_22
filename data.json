@@ -596,15 +596,15 @@
   }
   ,
   "50":{
-    "quiz":"",
+    "quiz":"How can you register multiple SAP Gateway services simultaneously? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Using task list SAP_GATEWAY_ACTIVATE_ODATA_SERV.", "answer":"correct"},
+        {"label":"B", "text":"Using transaction /IWFND/GW_CLIENT.", "answer":"incorrect"},
+        {"label":"C", "text":"Using task list SAP_GATEWAY_BASIC_CONFIG.", "answer":"incorrect"},
+        {"label":"D", "text":"Using transaction /IWFND/MAINT_SERVICE.", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://www.createch.ca/blog/how-implement-sap-fiori-app-s4hana target=_blank>How to Implement an SAP Fiori</a> "
   }
   ,
   "51":{
