@@ -584,15 +584,15 @@
   }
   ,
   "49":{
-    "quiz":"",
+    "quiz":"Which of the following protocols is SAP's RFC protocol based on? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"OLE", "answer":"incorrect"},
+        {"label":"B", "text":"CPI-C", "answer":"correct"},
+        {"label":"C", "text":"OData", "answer":"incorrect"},
+        {"label":"D", "text":"TCP/IP", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/6f/1bd5b6a85b11d6b28500508b5d5211/frameset.htm target=_blank>RFC </a> "
   }
   ,
   "50":{
