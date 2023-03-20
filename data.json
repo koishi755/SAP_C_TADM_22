@@ -657,15 +657,15 @@
   }
   ,
   "55":{
-    "quiz":"",
+    "quiz":"In which situations can you resume the failed recovery of your productive SAP HANA tenant database? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"An aborted recovery of a delta data backup", "answer":"correct"},
+        {"label":"B", "text":"An aborted recovery of a log backup", "answer":"correct"},
+        {"label":"C", "text":"An aborted recovery of the configration files", "answer":"incorrect"},
+        {"label":"D", "text":"An aborted recovery of a complete data backup", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/6b94445c94ae495c83a19646e7c3fd56/6dbc0f3d01784fcdb8840f80ef7f2938.html?version=2.0.01 target=_blank>Resuming an Interrupted Recovery</a> "
   }
   ,
   "56":{
