@@ -681,15 +681,15 @@
   }
   ,
   "57":{
-    "quiz":"",
+    "quiz":"What are start conditions of a background job in an AS ABAP-based SAP system? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Reaching a specific date and time", "answer":"correct"},
+        {"label":"B", "text":"Ending of a predecessor job", "answer":"correct"},
+        {"label":"C", "text":"Locking user DDIC in client 000", "answer":"incorrect"},
+        {"label":"D", "text":"Starting of a dynamic work process", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://github.com/koishi755/SAP/wiki/025.-Event-Based-BG-Jobs-Scheduling target=_blank>Event Based BG Jobs Scheduling</a> <br> <a href=https://github.com/koishi755/SAP/wiki/024.-Background-Processing#3-4-%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB target=_blank>3-4 スケジュール/a> "
   }
   ,
   "58":{
