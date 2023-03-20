@@ -608,6 +608,66 @@
   }
   ,
   "51":{
+    "quiz":"How can the system database administrator disable tenant database functionalities? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"Using the Manage Database Configuration app", "answer":"correct"},
+        {"label":"B", "text":"Using the hdbuserstore tool", "answer":"incorrect"},
+        {"label":"C", "text":"Using the Manage Restricted Features app", "answer":"incorrect"},
+        {"label":"D", "text":"Using the resident hdblcm tool", "answer":"correct"}
+    ],
+    "description":
+    "<a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/6b94445c94ae495c83a19646e7c3fd56/e44815d6a1b244b4991bad3a46be3673.html?locale=en-US target=_blank>Disable Features on a Tenant Database</a> <br> <a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/6b94445c94ae495c83a19646e7c3fd56/719cf4918daa401f839da2c0d1cc4245.html target=_blank>Convert to Tenant Databases Using the Graphical User Interface</a> "
+  }
+  ,
+  "52":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "53":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "54":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "55":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "56":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
