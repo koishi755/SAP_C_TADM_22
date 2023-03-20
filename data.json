@@ -632,15 +632,15 @@
   }
   ,
   "53":{
-    "quiz":"",
+    "quiz":"You are running an SAP HANA database in log mode \"normal\".Under what circumstances does the database automatically execute a regular log backup? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"When the log buffer is full", "answer":"incorrect"},
+        {"label":"B", "text":"When the log segment is full", "answer":"correct"},
+        {"label":"C", "text":"When the time threshold is exceeded", "answer":"correct"},
+        {"label":"D", "text":"When a commit occurs", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SAP_HANA_PLATFORM/6b94445c94ae495c83a19646e7c3fd56/c486a0a3bb571014ab46c0633224f02f.html target=_blank>Log Modes</a> "
   }
   ,
   "54":{
