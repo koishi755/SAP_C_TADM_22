@@ -901,15 +901,15 @@
   }
   ,
   "75":{
-    "quiz":"",
+    "quiz":"During the installation of SAP Solution Manager ABAP, which of the following user IDs does SAPinst suggest for SAP Solution Manager Java? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Administrator", "answer":"incorrect"},
+        {"label":"B", "text":"SAPJSF", "answer":"incorrect"},
+        {"label":"C", "text":"SAP*", "answer":"incorrect"},
+        {"label":"D", "text":"J2EE_ADMIN", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/9f/d770424edcc553e10000000a1550b0/frameset.htm target=_blank> 標準ユーザ </a> "
   }
   ,
   "76":{
