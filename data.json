@@ -814,15 +814,16 @@
   }
   ,
   "68":{
-    "quiz":"",
+    "quiz":"You can use operation modes to change the quantity of which work process types. Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Update work process", "answer":"correct"},
+        {"label":"B", "text":"Standby/restricted/reserved dialog work process", "answer":"incorrect"},
+        {"label":"C", "text":"Spool work process", "answer":"incorrect"},
+        {"label":"D", "text":"Background work process", "answer":"correct"},
+        {"label":"E", "text":"Dialog work process", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_FOR_SOH_740/b17bd20044a44edb9aa7830ee52ffac3/80490f50847f021de10000000a44538d.html?version=7.40.20&locale=en-US target=_blank>Operation Modes</a> "
   }
   ,
   "69":{
