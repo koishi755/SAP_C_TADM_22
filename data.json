@@ -827,15 +827,15 @@
   }
   ,
   "69":{
-    "quiz":"",
+    "quiz":"Which changes in an AS Java-based SAP system require a restart of the affected server process(es) before they will take effect? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"A change of a Service property value", "answer":"incorrect"},
+        {"label":"B", "text":"A change of a Manager property value", "answer":"incorrect"},
+        {"label":"C", "text":"A change of the UME data source(s)", "answer":"correct"},
+        {"label":"D", "text":"A change of the Key phrase", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/5b/5d2706ebc04e4d98036f2e1dcfd47d/frameset.htm target=_blank>ユーザマネジメントエンジン </a> <br> <a href=https://blogs.sap.com/2015/12/28/how-to-check-key-phrase-of-the-secure-store/ target=_blank>How to check key phrase of the secure store</a> "
   }
   ,
   "70":{
