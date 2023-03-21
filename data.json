@@ -913,15 +913,15 @@
   }
   ,
   "76":{
-    "quiz":"",
+    "quiz":"You are installing a Primary Application Server and a Central Services instance for an AS Java-based SAP system. What is the minimum number of Java server nodes you must configure?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"4", "answer":"incorrect"},
+        {"label":"B", "text":"0", "answer":"correct"},
+        {"label":"C", "text":"1", "answer":"incorrect"},
+        {"label":"D", "text":"2", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/2e/611724f410254ca12a3f396ec5ae85/frameset.htm target=_blank>SAP Java アーキテクチャ</a> "
   }
   ,
   "77":{
