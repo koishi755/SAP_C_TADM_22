@@ -730,15 +730,15 @@
   }
   ,
   "61":{
-    "quiz":"",
+    "quiz":"Using the Java Startup and Control Framework, what is the correct sequence of steps to start an application server of an AS Java-based SAP system?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"1.Connect to SCS instance <br>   2.Start bootstrap process <br>  3. Start Offline Deplopment <br> 4.Start ICM/Server process(es) <br> ", "answer":"incorrect"},
+        {"label":"B", "text":"1.Start ICM/Server process(es) <br> 2.Start Offline Deplopment <br>  3.Start bootstrap process <br> 4.Connect to SCS instance <br>", "answer":"incorrect"},
+        {"label":"C", "text":"1.Connect to SCS instance <br>   2.Start Offline Deplopment <br> 3.Start bootstrap process <br> 4.Start ICM/Server process(es) <br>", "answer":"correct"},
+        {"label":"D", "text":"1.Start Offline Deplopment <br> 2.Start bootstrap process <br> 3.Start ICM/Server process(es) <br> 4.Connect to SCS instance <br>", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=http://saphelp.ucc.ovgu.de/NW750/EN/47/1d6feeff6e0d46e10000000a155369/frameset.htm target=_blank>Starting and Stopping SAP Systems and Instances Using Commands (Unix)</a> "
   }
   ,
   "62":{
