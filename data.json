@@ -790,6 +790,66 @@
   }
   ,
   "66":{
+    "quiz":"Which parameters are mandatory when using the HDBLCM tool to install the SAP HANA database system in batch mode? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"The password of user sapadm", "answer":"correct"},
+        {"label":"B", "text":"Data and log path", "answer":"incorrect"},
+        {"label":"C", "text":"SAP HANA System ID(SID)", "answer":"correct"},
+        {"label":"D", "text":"Installation path", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://catalog.workshops.aws/sap-hana-suse-ha/ja-JP/lab5/lab5-2 target=_blank>SAP HANA DATABASE(QAS)のインストール</a> "
+  }
+  ,
+  "67":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "68":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "69":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "70":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "71":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
