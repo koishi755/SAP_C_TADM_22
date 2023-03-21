@@ -742,6 +742,54 @@
   }
   ,
   "62":{
+    "quiz":"You are logged onto an AS ABAP-based SAP system. What happens when you release a task of a transport request that contains changes to a program?",
+    "option":[
+        {"label":"A", "text":"The repository locks are released", "answer":"incorrect"},
+        {"label":"B", "text":"A data file and a cofile are created", "answer":"incorrect"},
+        {"label":"C", "text":"A temporary vesion is created in version management", "answer":"incorrect"},
+        {"label":"D", "text":"The object list of the task is handed over to the transport request", "answer":"correct"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "63":{
+    "quiz":"Which file systems are supported for the data and log volumes of the SAP HANA 2.0 database system? Note: There are 2 correct answers to this question.",
+    "option":[
+        {"label":"A", "text":"GPFS", "answer":"correct"},
+        {"label":"B", "text":"Btrfs", "answer":"incorrect"},
+        {"label":"C", "text":"XFS", "answer":"correct"},
+        {"label":"D", "text":"OCFS2", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=https://open.sap.com/courses/suse2-1-pc/items/2wSGfOeSMit0VGSD69Sefe target=_blank>Creating a Highly Available File System with OCFS2</a> "
+  }
+  ,
+  "64":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "65":{
+    "quiz":"",
+    "option":[
+        {"label":"A", "text":"", "answer":"incorrect"},
+        {"label":"B", "text":"", "answer":"correct"},
+        {"label":"C", "text":"", "answer":"incorrect"},
+        {"label":"D", "text":"", "answer":"incorrect"}
+    ],
+    "description":
+    "<a href=りんく target=_blank>りんく名</a> "
+  }
+  ,
+  "66":{
     "quiz":"",
     "option":[
         {"label":"A", "text":"", "answer":"incorrect"},
