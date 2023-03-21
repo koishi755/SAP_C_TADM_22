@@ -839,15 +839,16 @@
   }
   ,
   "70":{
-    "quiz":"",
+    "quiz":"What are the prerequisites to use the Software Update Manager (SUM) to apply SAP Support Packages to an AS ABAP-based SAP system? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"A suitable Stack XML file must exist", "answer":"correct"},
+        {"label":"B", "text":"The SUM archive must have been provided to the SAP Host Agent", "answer":"incorrect"},
+        {"label":"C", "text":"The latest SAP kernel patch must have been applied to the SAP system", "answer":"incorrect"},
+        {"label":"D", "text":"The SAP Host Agent must have been configuredby SUM", "answer":"correct"},
+        {"label":"E", "text":"The SUM archive must have been extracted", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://blogs.sap.com/2021/06/15/using-the-sum-prerequisite-check-extended-to-prepare-your-conversion-to-sap-s-4hana/ target=_blank>Using the SUM Prerequisite Check Extended to Prepare Your Conversion to SAP S/4HANA</a> "
   }
   ,
   "71":{
