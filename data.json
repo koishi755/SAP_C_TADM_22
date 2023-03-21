@@ -877,12 +877,12 @@
   }
   ,
   "73":{
-    "quiz":"",
+    "quiz":"You are importing an SAP Support Package Stack with the Support Package Manager (transaction SPAM). Which steps require SAP system downtime? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Modification adjustment of dictionary object(SPDD)", "answer":"incorrect"},
+        {"label":"B", "text":"Import of inactive dictionary objects(DD IMPORT)", "answer":"incorrect"},
+        {"label":"C", "text":"", "answer":"correct"},
+        {"label":"D", "text":"", "answer":"correct"}
     ],
     "description":
     "<a href=りんく target=_blank>りんく名</a> "
