@@ -879,13 +879,13 @@
   "73":{
     "quiz":"You are importing an SAP Support Package Stack with the Support Package Manager (transaction SPAM). Which steps require SAP system downtime? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"Modification adjustment of dictionary object(SPDD)", "answer":"incorrect"},
-        {"label":"B", "text":"Import of inactive dictionary objects(DD IMPORT)", "answer":"incorrect"},
-        {"label":"C", "text":"", "answer":"correct"},
-        {"label":"D", "text":"", "answer":"correct"}
+        {"label":"A", "text":"Modification adjustment of dictionary object (SPDD)", "answer":"incorrect"},
+        {"label":"B", "text":"Import of inactive dictionary objects (DD IMPORT)", "answer":"incorrect"},
+        {"label":"C", "text":"Modification adjustment of other objects (SPAU)", "answer":"correct"},
+        {"label":"D", "text":"Activation of dictionary objects (DD ACTIVATION)", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/c6/068d380be34e6ce10000009b38f842/frameset.htm target=_blank>SPAU</a> <br> <a href=https://help.qlik.com/ja-JP/cloud-services/Subsystems/Hub/Content/Global_Common/Content/SharedReplicateHDD/SAP-Shared/Import_Transports_via_TMS.htm? target=_blank>TMS によるトランスポートのインポート</a>"
   }
   ,
   "74":{
