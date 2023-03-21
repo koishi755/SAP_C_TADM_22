@@ -864,15 +864,16 @@
   }
   ,
   "72":{
-    "quiz":"",
+    "quiz":"Which characteristics describe an SAP HANA multitenant database container (MDC) system? Note: There are 3 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"The name server provides index server functionality for the system database", "answer":"correct"},
+        {"label":"B", "text":"The name server owns information about the location of tables and table partitions in databases", "answer":"incorrect"},
+        {"label":"C", "text":"A multitenant database container system is identified by a single system ID(SID)", "answer":"correct"},
+        {"label":"D", "text":"Each tenant database runs its own compile server and the preprocessor server", "answer":"incorrect"},
+        {"label":"E", "text":"Database isolation increases the isolation between tenant databases on the operating system level", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://blogs.sap.com/2016/12/20/sap-hana-5-mdcjapanese/ target=_blank>SAP HANA (5) MDC(Japanese)</a> "
   }
   ,
   "73":{
