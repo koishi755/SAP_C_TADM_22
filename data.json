@@ -889,15 +889,15 @@
   }
   ,
   "74":{
-    "quiz":"",
+    "quiz":"How are savepoints triggered? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"By a database soft shutdown", "answer":"correct"},
+        {"label":"B", "text":"By performing a delta merge", "answer":"incorrect"},
+        {"label":"C", "text":"By performing a database backup", "answer":"correct"},
+        {"label":"D", "text":"By issuing a transactinal commit", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/17/6f9b40e8192a54e10000000a1550b0/frameset.htm target=_blank>セーブポイント </a> "
   }
   ,
   "75":{
