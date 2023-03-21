@@ -766,15 +766,15 @@
   }
   ,
   "64":{
-    "quiz":"",
+    "quiz":"What is the purpose of a security policy in an AS ABAP-based SAP system?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"To assign selected security attributes and their values to users", "answer":"incorrect"},
+        {"label":"B", "text":"To define security-relevant system profile parameter", "answer":"correct"},
+        {"label":"C", "text":"To difine possible authentication mechanisms", "answer":"incorrect"},
+        {"label":"D", "text":"To assign selected security attributes and their values to roles", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_FOR_SOH_740/c6e6d078ab99452db94ed7b3b7bbcccf/41019a4dba8d4afcb9e6a12003e40a2a.html?version=7.40.24&locale=en-US target=_blank>Defining Security Policies</a> "
   }
   ,
   "65":{
