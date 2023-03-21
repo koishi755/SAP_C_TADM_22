@@ -778,15 +778,15 @@
   }
   ,
   "65":{
-    "quiz":"",
+    "quiz":"You are using a standard three-system landscape, DEV, QAS, and PRD. In which case will a change of a repository object in the QAS system be treated as a correction?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"If the object was created in DEV and transported to QAS via the transport of copies", "answer":"incorrect"},
+        {"label":"B", "text":"If the original system of the objects is QAS", "answer":"incorrect"},
+        {"label":"C", "text":"If the object's name is in the SAP name range", "answer":"correct"},
+        {"label":"D", "text":"If the object was created in DEV and transported to QAS via workbench request", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/63/a30a4ac00811d2851c0000e8a57770/frameset.htm target=_blank>システムランドスケープ </a> "
   }
   ,
   "66":{
