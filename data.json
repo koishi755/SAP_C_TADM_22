@@ -961,15 +961,15 @@
   }
   ,
   "80":{
-    "quiz":"",
+    "quiz":"What can you configure by maintaining table HTTPURLLOC?",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"The path of the URL launched by transaction /UI2/FLP", "answer":"incorrect"},
+        {"label":"B", "text":"The URL of a local Web server for user assistance resources", "answer":"incorrect"},
+        {"label":"C", "text":"The hostname of the URL launched by transaction /UI2/FLP", "answer":"correct"},
+        {"label":"D", "text":"The URL used by classic application", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/42/d547ab30b6473ce10000000a114e5d/frameset.htm target=_blank>HTTPURLLOC </a> <br><a href=https://www.se80.co.uk/sap-tcodes/?name=/ui2/flp target=_blank>/UI2/FLP</a> "
   }
   ,
   "81":{
