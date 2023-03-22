@@ -937,15 +937,15 @@
   }
   ,
   "78":{
-    "quiz":"",
+    "quiz":"What are the prerequisites for enabling communication between a standalone SAP Web Dispatcher and an AS ABAP-based SAP system? Note: There are 2 correct answers to this question.s",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Activation of ICF service /sap/public/ping", "answer":"incorrect"},
+        {"label":"B", "text":"Activation of ICF service /sap/public/icf_info/icr_groups", "answer":"correct"},
+        {"label":"C", "text":"Identification of HTTP(S) port of the SAP instance's ICM process", "answer":"incorrect"},
+        {"label":"D", "text":"Identification of HTTP(S) port of the ABAP message server", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/36/020d3a0154b909e10000000a114084/frameset.htm target=_blank>ICF</a> <br> <a href=https://help.sap.com/docs/SAP_MOBILE_PLATFORM_SDK_32/42dc90f1e1ed45d9aafad60c80646d10/7c117fee700610149e2cd5af4ce284e9.html?locale=en-US&q=message%20server target=_blank>Messaging Server</a>"
   }
   ,
   "79":{
