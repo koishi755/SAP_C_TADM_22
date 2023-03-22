@@ -925,15 +925,15 @@
   }
   ,
   "77":{
-    "quiz":"",
+    "quiz":"Which tasks can you perform when using the SAP HANA database lifecycle manager (HDBLCM) from the SAP HANA installation media? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"Unistall the SAP HANA database system and its components", "answer":"incorrect"},
+        {"label":"B", "text":"Extract the SAP HANA database system components", "answer":"correct"},
+        {"label":"C", "text":"Rename the SAP HANA database system", "answer":"incorrect"},
+        {"label":"D", "text":"Update the SAP HANA database system and its components", "answer":"correct"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://blogs.sap.com/2018/01/30/sap-hana-platform-lifecycle-management-by-the-sap-hana-academy/ target=_blank>SAP HANA platform lifecycle management – by the SAP HANA Academy</a> "
   }
   ,
   "78":{
