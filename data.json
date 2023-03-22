@@ -949,15 +949,15 @@
   }
   ,
   "79":{
-    "quiz":"",
+    "quiz":"Which file system locations do you need to specify when installing the SAP HANA multi-host database system using the default settings? Note: There are 2 correct answers to this question.",
     "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
+        {"label":"A", "text":"/hana/log/<SID>", "answer":"correct"},
+        {"label":"B", "text":"/hana/shared", "answer":"correct"},
+        {"label":"C", "text":"/usr/sap/hostctrl", "answer":"incorrect"},
+        {"label":"D", "text":"/usr/sap/<SID>", "answer":"incorrect"}
     ],
     "description":
-    "<a href=りんく target=_blank>りんく名</a> "
+    "<a href=https://help.sap.com/docs/HANA_STREAMING/9cca8e6289ce4d9495a6012d32f3b7d1/003bbec513e44203890d6c0e9077c456.html?version=2.0.00&locale=en-US target=_blank>Recommended File System Layout</a> "
   }
   ,
   "80":{
