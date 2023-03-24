@@ -151,7 +151,7 @@
         {"label":"B", "text":"A consolidation route from the development system to a subsequent system must exist.", "answer":"correct"},
         {"label":"C", "text":"A delivery route from the development system to a subsequent system must exist.", "answer":"incorrect"},
         {"label":"D", "text":"All packages used by objects in the workbench request must be assigned to a valid transport layer.", "answer":"correct"},
-        {"label":"D", "text":"All repository objects within the workbench request must be assigned to the same transport layer.", "answer":"incorrect"}
+        {"label":"E", "text":"All repository objects within the workbench request must be assigned to the same transport layer.", "answer":"incorrect"}
     ],
     "description":
     "<iframe width=560 height=315 src=https://www.youtube.com/embed/CPgaFPZ1bUY title=YouTube video player frameborder=0 allow=accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share allowfullscreen></iframe><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/57/38e1824eb711d182bf0000e829fbfe/frameset.htm target=_blank>変更依頼</a> "
@@ -200,7 +200,7 @@
         {"label":"B", "text":"Memory cache", "answer":"correct"},
         {"label":"C", "text":"Browser cache", "answer":"incorrect"},
         {"label":"D", "text":"Disk cache", "answer":"correct"},
-        {"label":"D", "text":"UFO cache", "answer":"correct"}
+        {"label":"E", "text":"UFO cache", "answer":"correct"}
     ],
     "description":
     "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/72/c2153aab4a0c0ee10000000a114084/frameset.htm target=_blank>ICM サーバキャッシュ</a> "
@@ -237,7 +237,7 @@
         {"label":"B", "text":"R3load", "answer":"incorrect"},
         {"label":"C", "text":"R3trans", "answer":"correct"},
         {"label":"D", "text":"tp", "answer":"correct"},
-        {"label":"D", "text":"RDDIMPDP", "answer":"correct"}
+        {"label":"E", "text":"RDDIMPDP", "answer":"correct"}
     ],
     "description":
     "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/3d/ad5c974ebc11d182bf0000e829fbfe/frameset.htm target=_blank>R3Trans </a><br> <a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/3d/ad5c974ebc11d182bf0000e829fbfe/frameset.htm target=_blank>移送制御プログラム tp </a><br><a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/3d/ad5c784ebc11d182bf0000e829fbfe/frameset.htm target=_blank>RDDIMPDP</a><br>"
@@ -298,7 +298,7 @@
         {"label":"B", "text":"To be approved by the developer", "answer":"incorrect"},
         {"label":"C", "text":"To be approved by a project manager", "answer":"incorrect"},
         {"label":"D", "text":"To be approved by request owner", "answer":"correct"},
-        {"label":"D", "text":"To be approved by depertment", "answer":"correct"}
+        {"label":"E", "text":"To be approved by depertment", "answer":"correct"}
     ],
     "description":
     "<a href=https://help.sap.com/doc/saphelp_nw70ehp1/7.01.4/ja-JP/9c/a544cfc57111d2b438006094b9ea64/frameset.htm target=_blank>承認ステップの決定 く</a> "
@@ -394,7 +394,7 @@
         {"label":"B", "text":"SAP Fiori launchpad settings(/UI2/FLP_CUS_CONF)", "answer":"correct"},
         {"label":"C", "text":"SAP Fiori launchpad application manager(/UI2/FRPAM)", "answer":"incorrect"},
         {"label":"D", "text":"SAP Fiori launchpad content manager(/UI2/FLPCM_CUST)", "answer":"correct"},
-        {"label":"D", "text":"SAP Fiori launchpad designer(/UI2/FLPD_CUST)", "answer":"correct"}
+        {"label":"E", "text":"SAP Fiori launchpad designer(/UI2/FLPD_CUST)", "answer":"correct"}
     ],
     "description":
     "<a href=https://help.sap.com/docs/ABAP_PLATFORM/a7b390faab1140c087b8926571e942b7/eae3cc31b1d34d139d153067fcecd975.html?locale=en-US target=_blank>Setting Parameters in SAP Fiori Customizing</a><br><a href=https://help.sap.com/docs/SAP%20Fiori%20launchpad/d4650bf68a9f4f67a1fda673f09926a9/1e569e00739946a1a974a46925dcd879.html target=_blank></a>/UI2/FLPCM_CUSTについて<br><a href=https://stratserv.co/2022/03/how-to-add-abap-custom-sap-transactions-to-the-fiori-launchpad-by-saps-abir-cherif/ target=_blank>/UI2/FLPD_CUSTについて</a><br><a href=https://blogs.sap.com/2019/03/15/sap-fiori-catalog-business-group-role-creation/ target=_blank>SAP Fiori Catalog, Business Group & Role Creation</a> <br><a href=https://blogs.sap.com/2022/06/30/basics-of-fiori-apps-authorizations-and-catalog-group/ target=_blank>How to create Fiori Catalog, Group and custom Fiori tiles</a> "
@@ -970,18 +970,6 @@
     ],
     "description":
     "<a href=https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/42/d547ab30b6473ce10000000a114e5d/frameset.htm target=_blank>HTTPURLLOC </a> <br><a href=https://www.se80.co.uk/sap-tcodes/?name=/ui2/flp target=_blank>/UI2/FLP</a> "
-  }
-  ,
-  "81":{
-    "quiz":"",
-    "option":[
-        {"label":"A", "text":"", "answer":"incorrect"},
-        {"label":"B", "text":"", "answer":"correct"},
-        {"label":"C", "text":"", "answer":"incorrect"},
-        {"label":"D", "text":"", "answer":"incorrect"}
-    ],
-    "description":
-    "<a href=りんく target=_blank>りんく名</a> "
   }
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
