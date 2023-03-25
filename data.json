@@ -628,7 +628,7 @@
         {"label":"D", "text":"Fact sheet apps", "answer":"incorrect"}
     ],
     "description":
-    "<a href=https://help.sap.com/saphelp_ssb/helpdata/en/7e/4076547363054ee10000000a423f68/frameset.htm target=_blank>Transactional Apps</a> <br> <a href=https://www.tutorialspoint.com/sap_fiori/sap_fiori_analytical_apps.htm target=_blank>SAP Fiori - Analytical Apps</a>  "
+    "<a href=https://help.sap.com/saphelp_ssb/helpdata/en/7e/4076547363054ee10000000a423f68/frameset.htm target=_blank>Transactional Apps</a> <br> <a href=https://help.sap.com/docs/SAP_S4HANA_CLOUD/a630d57fc5004c6383e7a81efee7a8bb/599db5e2921c46ac95475567b9aa68c2.html target=_blank>分析アーキテクチャ</a>  "
   }
   ,
   "53":{
