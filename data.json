@@ -271,8 +271,8 @@
     "quiz":"What is the correct sequence of the following four steps when you restart the SAP HANA database system?",
     "option":[
         {"label":"A", "text":"1. Aborted transactions are rolled pack. <br> 2. Row tables are loadede into memory. <br> 3. Open transactions are recovered. <br> 4. Column tables are loaded <br>", "answer":"incorrect"},
-        {"label":"B", "text":"1. Row tables are loadede into memory. <br> 2. Open transactions are recovered. <br> 3. Aborted transactions are rolled pack. <br> 4. Column tables are loaded <br>", "answer":"incorrect"},
-        {"label":"C", "text":"1. Aborted transactions are rolled pack. <br> 2. Open transactions are recovered. <br> 3. Row tables are loadede into memory. <br> 4. Column tables are loaded <br>", "answer":"correct"},
+        {"label":"B", "text":"1. Row tables are loadede into memory. <br> 2. Open transactions are recovered. <br> 3. Aborted transactions are rolled pack. <br> 4. Column tables are loaded <br>", "answer":"correct"},
+        {"label":"C", "text":"1. Aborted transactions are rolled pack. <br> 2. Open transactions are recovered. <br> 3. Row tables are loadede into memory. <br> 4. Column tables are loaded <br>", "answer":"incorrect"},
         {"label":"D", "text":"1. Row tables are loadede into memory. <br> 2. Column tables are loaded <br> 3. Open transactions are recovered. <br> 4. Aborted transactions are rolled pack. <br>", "answer":"incorrect"}
     ],
     "description":
